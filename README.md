@@ -19,3 +19,6 @@
 
 
 
+https://github.com/NobyDa/Script/tree/master
+
+浏览器登录 https://bean.m.jd.com/bean/signIndex.action 点击签到并且出现签到日历后, 返回抓包app搜索关键字 functionId=signBean 复制请求头Cookie
